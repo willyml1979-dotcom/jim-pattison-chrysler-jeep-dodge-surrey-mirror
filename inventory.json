@@ -1,6 +1,6 @@
 {
   "dealership": "Jim Pattison Chrysler Jeep Dodge Surrey",
-  "generated_at": "2026-11-16T22:53:16",
+  "generated_at": "2026-11-17T22:59:27",
   "vehicle_count": 137,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -163,14 +163,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Jeep Wrangler ",
+      "name": "2021 Jeep Wrangler RUBICON 4DOOR, LEATHER, NAV, ALPINE AND MORE...",
       "vin": "1C4HJXFN1MW677475",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-chrysler-jeep-dodge-surrey-mirror/used/d989dfecdb86.html",
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 34995.0,
+      "price": 31952.0,
       "price_currency": "CAD"
     },
     {
@@ -566,13 +566,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee",
+      "name": "2026 Jeep Cherokee Limited Hybrid",
       "vin": "3C4PJMB28TT191059",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-chrysler-jeep-dodge-surrey-mirror/used/da64802e959a.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "price": 53995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 Jeep Compass Sport 4x4",
